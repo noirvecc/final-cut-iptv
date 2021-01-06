@@ -26,507 +26,64 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",DUBAI ONE (1920×1080)
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Undefined",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",NAT GEO Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,UNION BEIN-1 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85701
-#EXTINF:-1,UNION BEIN-2 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85702
-#EXTINF:-1,UNION BEIN-3 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85703
-#EXTINF:-1,UNION BEIN-4 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85704
-#EXTINF:-1,UNION BEIN-5 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85705
-#EXTINF:-1,UNION BEIN-6 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85706
-#EXTINF:-1,UNION BEIN-7 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85707
-#EXTINF:-1,UNION BEIN-8 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85708
-#EXTINF:-1,UNION BEIN-9 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85709
-#EXTINF:-1,UNION BEIN-10 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85710
-#EXTINF:-1,UNION BEIN-11 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85711
-#EXTINF:-1,UNION BEIN-12 VIP
-http://channelstv.online:8080/A939376788322/A092927667330/85712
-#EXTINF:-1,BeoutQ 1 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81010
-#EXTINF:-1,BeoutQ 2 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81011
-#EXTINF:-1,BeoutQ 3 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81012
-#EXTINF:-1,BeoutQ 4 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81013
-#EXTINF:-1,BeoutQ 5 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81014
-#EXTINF:-1,BeoutQ 6 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81015
-#EXTINF:-1,BeoutQ 7 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81016
-#EXTINF:-1,BeoutQ 8 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81017
-#EXTINF:-1,BeoutQ 9 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81018
-#EXTINF:-1,BeoutQ 10 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81019
-#EXTINF:-1,Bein 1 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57941
-#EXTINF:-1,Bein 2 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57942
-#EXTINF:-1,Bein 3 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57943
-#EXTINF:-1,Bein 4 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57944
-#EXTINF:-1,Bein 5 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57945
-#EXTINF:-1,Bein 6 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57946
-#EXTINF:-1,Bein 7 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57947
-#EXTINF:-1,Bein 8 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57948
-#EXTINF:-1,Bein 9 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57949
-#EXTINF:-1,Bein 10 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57950
-#EXTINF:-1,Bein 11 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57951
-#EXTINF:-1,Bein 12 720 H265
-http://channelstv.online:8080/A939376788322/A092927667330/57952
-#EXTINF:-1,Bein 1 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81074
-#EXTINF:-1,Bein 2 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81075
-#EXTINF:-1,Bein 3 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81076
-#EXTINF:-1,Bein 4 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81077
-#EXTINF:-1,Bein 5 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81078
-#EXTINF:-1,Bein 6 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81079
-#EXTINF:-1,Bein 7 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81080
-#EXTINF:-1,Bein 8 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81081
-#EXTINF:-1,Bein 9 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81082
-#EXTINF:-1,Bein 10 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81083
-#EXTINF:-1,Bein 11 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81084
-#EXTINF:-1,Bein 12 H265
-http://channelstv.online:8080/A939376788322/A092927667330/81085
-#EXTINF:-1,Bein 1 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57953
-#EXTINF:-1,Bein 2 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57954
-#EXTINF:-1,Bein 3 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57955
-#EXTINF:-1,Bein 4 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57956
-#EXTINF:-1,Bein 5 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57957
-#EXTINF:-1,Bein 6 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57958
-#EXTINF:-1,Bein 7 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57959
-#EXTINF:-1,Bein 8 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57960
-#EXTINF:-1,Bein 9 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57961
-#EXTINF:-1,Bein 10 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57962
-#EXTINF:-1,Bein 11 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57963
-#EXTINF:-1,Bein 12 1080 Local
-http://channelstv.online:8080/A939376788322/A092927667330/57964
-#EXTINF:-1,Bein 1_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81128
-#EXTINF:-1,Bein 2_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81129
-#EXTINF:-1,Bein 3_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81130
-#EXTINF:-1,Bein 4_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81131
-#EXTINF:-1,Bein 5_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81132
-#EXTINF:-1,Bein 6_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81133
-#EXTINF:-1,Bein 7_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81134
-#EXTINF:-1,Bein 8_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81135
-#EXTINF:-1,Bein 9_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81136
-#EXTINF:-1,Bein 10_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81137
-#EXTINF:-1,Bein 11_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81138
-#EXTINF:-1,Bein 12_FHD
-http://channelstv.online:8080/A939376788322/A092927667330/81139
-#EXTINF:-1,Bein 1_FHD_1080
+#EXTINF:-1,NAT GEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1,HISTORY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:-1,DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1,Bein 1
 http://channelstv.online:8080/A939376788322/A092927667330/81140
-#EXTINF:-1,Bein 2_FHD_1080
+#EXTINF:-1,Bein 2
 http://channelstv.online:8080/A939376788322/A092927667330/81141
-#EXTINF:-1,Bein 3_FHD_1080
+#EXTINF:-1,Bein 3
 http://channelstv.online:8080/A939376788322/A092927667330/81142
-#EXTINF:-1,Bein 4_FHD_1080
+#EXTINF:-1,Bein 4
 http://channelstv.online:8080/A939376788322/A092927667330/81143
-#EXTINF:-1,Bein 5_FHD_1080
+#EXTINF:-1,Bein 5
 http://channelstv.online:8080/A939376788322/A092927667330/81144
-#EXTINF:-1,Bein 6_FHD_1080
+#EXTINF:-1,Bein 6
 http://channelstv.online:8080/A939376788322/A092927667330/81145
-#EXTINF:-1,Bein 7_FHD_1080
+#EXTINF:-1,Bein 7
 http://channelstv.online:8080/A939376788322/A092927667330/81146
-#EXTINF:-1,Bein 8_FHD_1080
+#EXTINF:-1,Bein 8
 http://channelstv.online:8080/A939376788322/A092927667330/81147
-#EXTINF:-1,Bein 9_FHD_1080
+#EXTINF:-1,Bein 9
 http://channelstv.online:8080/A939376788322/A092927667330/81148
-#EXTINF:-1,Bein 10_FHD_1080
+#EXTINF:-1,Bein 10
 http://channelstv.online:8080/A939376788322/A092927667330/81149
-#EXTINF:-1,Bein 11_FHD_1080
+#EXTINF:-1,Bein 11
 http://channelstv.online:8080/A939376788322/A092927667330/81150
-#EXTINF:-1,Bein 12_FHD_1080
+#EXTINF:-1,Bein 12
 http://channelstv.online:8080/A939376788322/A092927667330/81151
-#EXTINF:-1,beIN Sports 1 4K H265
+#EXTINF:-1,Bein 1 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57965
-#EXTINF:-1,beIN Sports 2 4K H265
+#EXTINF:-1,Bein 2 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57966
-#EXTINF:-1,beIN Sports 3 4K H265
+#EXTINF:-1,Bein 3 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57967
-#EXTINF:-1,beIN Sports 4 4K H265
+#EXTINF:-1,Bein 4 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57968
-#EXTINF:-1,beIN Sports 5 4K H265
+#EXTINF:-1,Bein 5 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57969
-#EXTINF:-1,beIN Sports 6 4K H265
+#EXTINF:-1,Bein 6 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57970
-#EXTINF:-1,beIN Sports 7 4K H265
+#EXTINF:-1,Bein 7 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57971
-#EXTINF:-1,beIN Sports 8 4K H265
+#EXTINF:-1,Bein 8 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57972
-#EXTINF:-1,beIN Sports 9 4K H265
+#EXTINF:-1,Bein 9 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57973
-#EXTINF:-1,beIN Sports 10 4K H265
+#EXTINF:-1,Bein 10 4K 
 http://channelstv.online:8080/A939376788322/A092927667330/57974
-#EXTINF:-1,Bein 4K_LOCAL
-http://channelstv.online:8080/A939376788322/A092927667330/81152
-#EXTINF:-1,beIN Sports 1 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81153
-#EXTINF:-1,beIN Sports 2 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81154
-#EXTINF:-1,beIN Sports 3 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81155
-#EXTINF:-1,beIN Sports 4 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81156
-#EXTINF:-1,beIN Sports 5 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81157
-#EXTINF:-1,beIN Sports 6 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81158
-#EXTINF:-1,beIN Sports 7 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81159
-#EXTINF:-1,beIN Sports 8 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81160
-#EXTINF:-1,beIN Sports 9 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81161
-#EXTINF:-1,beIN Sports 10 4K
-http://channelstv.online:8080/A939376788322/A092927667330/81162
-#EXTINF:-1,Bein 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81163
-#EXTINF:-1,beIN Sports 1 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81164
-#EXTINF:-1,beIN Sports 2 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81165
-#EXTINF:-1,beIN Sports 3 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81166
-#EXTINF:-1,beIN Sports 4 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81167
-#EXTINF:-1,beIN Sports 5 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81168
-#EXTINF:-1,beIN Sports 6 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81169
-#EXTINF:-1,beIN Sports 7 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81170
-#EXTINF:-1,beIN Sports 8 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81171
-#EXTINF:-1,beIN Sports 9 4K Pure
-http://channelstv.online:8080/A939376788322/A092927667330/81172
-#EXTINF:-1,beIN Sports 10 4K PURE
-http://channelstv.online:8080/A939376788322/A092927667330/81173
-#EXTINF:-1,FR_BeIN_SPORTS_1_HD
-http://channelstv.online:8080/A939376788322/A092927667330/73937
-#EXTINF:-1,FR_BeIN_SPORTS_2_HD
-http://channelstv.online:8080/A939376788322/A092927667330/73938
-#EXTINF:-1,FR_BeIN_SPORTS_3_FullHD
-http://channelstv.online:8080/A939376788322/A092927667330/73939
-#EXTINF:-1,FR_BEIN_SPORT_MAX_04
-http://channelstv.online:8080/A939376788322/A092927667330/73940
-#EXTINF:-1,FR_BEIN_SPORT_MAX_05
-http://channelstv.online:8080/A939376788322/A092927667330/73941
-#EXTINF:-1,FR_BEIN_SPORT_MAX_06
-http://channelstv.online:8080/A939376788322/A092927667330/73942
-#EXTINF:-1,FR_BEIN_SPORT_MAX_07
-http://channelstv.online:8080/A939376788322/A092927667330/73943
-#EXTINF:-1,FR_BEIN_SPORT_MAX_08
-http://channelstv.online:8080/A939376788322/A092927667330/73944
-#EXTINF:-1,FR_BEIN_SPORT_MAX_09
-http://channelstv.online:8080/A939376788322/A092927667330/73945
-#EXTINF:-1,FR_BEIN_SPORT_MAX_10
-#EXTINF:-1,AL: Super Sport 1
-http://channelstv.online:8080/A939376788322/A092927667330/58018
-#EXTINF:-1,AL: Super Sport 2
-http://channelstv.online:8080/A939376788322/A092927667330/58019
-#EXTINF:-1,AL: Super Sport 3
-http://channelstv.online:8080/A939376788322/A092927667330/58020
-#EXTINF:-1,AL: Super Sport 4
-http://channelstv.online:8080/A939376788322/A092927667330/58021
-#EXTINF:-1,AF: SuperSport Cricket HD
-http://channelstv.online:8080/A939376788322/A092927667330/58023
-#EXTINF:-1,AF: SuperSport Rugby HD
-http://channelstv.online:8080/A939376788322/A092927667330/58025
-#EXTINF:-1,AF: SuperSport La Liga HD
-http://channelstv.online:8080/A939376788322/A092927667330/58026
-#EXTINF:-1,AF: SuperSport Motorsport HD
-http://channelstv.online:8080/A939376788322/A092927667330/58027
-#EXTINF:-1,AF: SuperSport Tennis HD
-http://channelstv.online:8080/A939376788322/A092927667330/58028
-#EXTINF:-1,AF: SuperSport Premier League HD
-http://channelstv.online:8080/A939376788322/A092927667330/58029
-#EXTINF:-1,AF: SuperSport Blitz HD
-http://channelstv.online:8080/A939376788322/A092927667330/58030
-#EXTINF:-1,AF: SuperSport MáXimo 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/58031
-#EXTINF:-1,AF: SuperSport Play HD
-http://channelstv.online:8080/A939376788322/A092927667330/58032
-#EXTINF:-1,AF: SuperSport Variety 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/58033
-#EXTINF:-1,AF: SuperSport Variety 4 HD
-http://channelstv.online:8080/A939376788322/A092927667330/58035
-#EXTINF:-1,ON Time Sport SD
-http://channelstv.online:8080/A939376788322/A092927667330/85699
-#EXTINF:-1,ON Time Sport H265
-http://channelstv.online:8080/A939376788322/A092927667330/48045
-#EXTINF:-1,ON Time Sport 2 H265
-http://channelstv.online:8080/A939376788322/A092927667330/39013
-#EXTINF:-1,AR: DMC.SPORT
-http://channelstv.online:8080/A939376788322/A092927667330/23664
-#EXTINF:-1,AR: Al Ahly TV
-http://channelstv.online:8080/A939376788322/A092927667330/23666
-#EXTINF:-1,AR: Zamalek Sports
-http://channelstv.online:8080/A939376788322/A092927667330/23668
-#EXTINF:-1,Dubai Sports1
-http://channelstv.online:8080/A939376788322/A092927667330/35144
-#EXTINF:-1,Dubai Sports2
-http://channelstv.online:8080/A939376788322/A092927667330/35145
-#EXTINF:-1,Dubai Sports3
-http://channelstv.online:8080/A939376788322/A092927667330/35146
-#EXTINF:-1,Dubai Racing
-http://channelstv.online:8080/A939376788322/A092927667330/35953
-#EXTINF:-1,Dubai Racing 2
-http://channelstv.online:8080/A939376788322/A092927667330/35954
-#EXTINF:-1,Dubai Racing 3
-http://channelstv.online:8080/A939376788322/A092927667330/35955
-#EXTINF:-1,Al kass 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/48046
-#EXTINF:-1,Al kass 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/48047
-#EXTINF:-1,Al kass 4 HD
-http://channelstv.online:8080/A939376788322/A092927667330/48049
-#EXTINF:-1,Al kass 5 HD
-http://channelstv.online:8080/A939376788322/A092927667330/48050
-#EXTINF:-1,KTV Sports
-http://channelstv.online:8080/A939376788322/A092927667330/35147
-#EXTINF:-1,Time.Sport hevc
-http://channelstv.online:8080/A939376788322/A092927667330/23665
-#EXTINF:-1,AR: YAS.Sport
-http://channelstv.online:8080/A939376788322/A092927667330/23675
-#EXTINF:-1,SP-AR | Arryadia
-http://channelstv.online:8080/A939376788322/A092927667330/38995
-#EXTINF:-1,SP-AR | Bahrain Sports 1
-http://channelstv.online:8080/A939376788322/A092927667330/38996
-#EXTINF:-1,SP-AR | Bahrain Sports 2
-http://channelstv.online:8080/A939376788322/A092927667330/38997
-#EXTINF:-1,SP-AR | Iraqiya Sport
-http://channelstv.online:8080/A939376788322/A092927667330/39003
-#EXTINF:-1,SP-AR | Jordan Sport ⁴ᵏ
-http://channelstv.online:8080/A939376788322/A092927667330/39004
-#EXTINF:-1,SP-AR | Kuwait Sport + ⁴ᵏ
-http://channelstv.online:8080/A939376788322/A092927667330/39009
-#EXTINF:-1,SP-AR | Kuwait Tv Sport ⁴ᵏ
-http://channelstv.online:8080/A939376788322/A092927667330/39010
-#EXTINF:-1,SP-AR | Nile Sport
-http://channelstv.online:8080/A939376788322/A092927667330/39011
-#EXTINF:-1,SP-AR | Oman Sport ⁴ᵏ
-http://channelstv.online:8080/A939376788322/A092927667330/39012
-#EXTINF:-1,SP-AR | Saudi Sport 24
-http://channelstv.online:8080/A939376788322/A092927667330/39014
-#EXTINF:-1,SP-AR | Sharjah Sport ⁴ᵏ
-http://channelstv.online:8080/A939376788322/A092927667330/39015
-#EXTINF:-1,SP-AR | YAS Sports ⁴ᵏ
-http://channelstv.online:8080/A939376788322/A092927667330/39016
-#EXTINF:-1,ON Time Sport 
-http://channelstv.online:8080/A939376788322/A092927667330/92108
-#EXTINF:-1,DAZN 1
-http://channelstv.online:8080/A939376788322/A092927667330/80942
-#EXTINF:-1,DAZN 2
-http://channelstv.online:8080/A939376788322/A092927667330/80943
-#EXTINF:-1,BR: DAZN 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80958
-#EXTINF:-1,DE: DAZN Bar 1
-http://channelstv.online:8080/A939376788322/A092927667330/80962
-#EXTINF:-1,PT: Eleven Sport 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80978
-#EXTINF:-1,PT: Eleven Sport 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80979
-#EXTINF:-1,PT: Eleven Sport 3 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80980
-#EXTINF:-1,PT: Eleven Sport 4 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80981
-#EXTINF:-1,PT: Eleven Sport 5 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80982
-#EXTINF:-1,PT: Eleven Sport 6 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80983
-#EXTINF:-1,BE: ELEVEN SPORTS 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80984
-#EXTINF:-1,BE: ELEVEN SPORTS 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/80985
-#EXTINF:-1,PL: ELEVEN SPORT 1 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/80987
-#EXTINF:-1,PL: ELEVEN SPORT 2 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/80988
-#EXTINF:-1,PL: ELEVEN SPORT 3 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/80989
-#EXTINF:-1,PL: ELEVEN SPORT 4 FHD
-http://channelstv.online:8080/A939376788322/A092927667330/80990
-#EXTINF:-1,ES: M. Liga De Campeones
-http://channelstv.online:8080/A939376788322/A092927667330/80992
-#EXTINF:-1,Nova Throne Season 8 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92662
-#EXTINF:-1,ERT 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92664
-#EXTINF:-1,ERT  2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92665
-#EXTINF:-1,euro sport 1
-http://channelstv.online:8080/A939376788322/A092927667330/92666
-#EXTINF:-1,KPHTI TV
-http://channelstv.online:8080/A939376788322/A092927667330/92672
-#EXTINF:-1,4E
-http://channelstv.online:8080/A939376788322/A092927667330/92674
-#EXTINF:-1,ANT1
-http://channelstv.online:8080/A939376788322/A092927667330/92676
-#EXTINF:-1,ANT1 CYPRUS
-http://channelstv.online:8080/A939376788322/A092927667330/92677
-#EXTINF:-1,AXELOOS TV
-http://channelstv.online:8080/A939376788322/A092927667330/92679
-#EXTINF:-1,CAPITAL CYPRUS
-http://channelstv.online:8080/A939376788322/A092927667330/92680
-#EXTINF:-1,EXTRA CYPRUS
-http://channelstv.online:8080/A939376788322/A092927667330/92682
-#EXTINF:-1,IONIAN CHANNEL
-http://channelstv.online:8080/A939376788322/A092927667330/92683
-#EXTINF:-1,KANALI 9
-http://channelstv.online:8080/A939376788322/A092927667330/92684
-#EXTINF:-1,MONTREAL TV
-http://channelstv.online:8080/A939376788322/A092927667330/92686
-#EXTINF:-1,NEA TV XANIA
-http://channelstv.online:8080/A939376788322/A092927667330/92687
-#EXTINF:-1,NET TV TORONTO
-http://channelstv.online:8080/A939376788322/A092927667330/92688
-#EXTINF:-1,PLUS CYPRUS
-http://channelstv.online:8080/A939376788322/A092927667330/92689
-#EXTINF:-1,RIK 1
-http://channelstv.online:8080/A939376788322/A092927667330/92692
-#EXTINF:-1,RIK 2
-http://channelstv.online:8080/A939376788322/A092927667330/92693
-#EXTINF:-1,RIK SAT
-http://channelstv.online:8080/A939376788322/A092927667330/92694
-#EXTINF:-1,STAR KENTRIKIS ELLADAS
-http://channelstv.online:8080/A939376788322/A092927667330/92695
-#EXTINF:-1,SiGMA CYPRUS
-http://channelstv.online:8080/A939376788322/A092927667330/92697
-#EXTINF:-1,TV FILLOPOLI
-http://channelstv.online:8080/A939376788322/A092927667330/92700
-#EXTINF:-1,VOULI
-http://channelstv.online:8080/A939376788322/A092927667330/92701
-#EXTINF:-1,MESSINIA TV
-http://channelstv.online:8080/A939376788322/A092927667330/92702
-#EXTINF:-1,OMEGA CYPRUS
-http://channelstv.online:8080/A939376788322/A092927667330/92703
-#EXTINF:-1,SPORTS TRING SPORT 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92751
-#EXTINF:-1, fox sport HD
-http://channelstv.online:8080/A939376788322/A092927667330/92752
-#EXTINF:-1,SPORTS : Sport 2
-http://channelstv.online:8080/A939376788322/A092927667330/92753
-#EXTINF:-1,Sport 1
-http://channelstv.online:8080/A939376788322/A092927667330/92754
-#EXTINF:-1,DIEMA SPORT 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92755
-#EXTINF:-1,Racing sport 
-http://channelstv.online:8080/A939376788322/A092927667330/92756
-#EXTINF:-1, Super Sport 5 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92757
-#EXTINF:-1,Super Sport News HD
-http://channelstv.online:8080/A939376788322/A092927667330/92758
-#EXTINF:-1,Super Sport 3 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92759
-#EXTINF:-1,TRING SPORT 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92761
-#EXTINF:-1,Sky Sport AUSRIA  FHD
-http://channelstv.online:8080/A939376788322/A092927667330/92762
-#EXTINF:-1,DIEMA SPORT 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/92764
-#EXTINF:-1,BU:KINO NOVA
-http://channelstv.online:8080/A939376788322/A092927667330/99783
-#EXTINF:-1,Bu- Kino Nova
-http://channelstv.online:8080/A939376788322/A092927667330/99785
-#EXTINF:-1,Bu- Nova Sport
-http://channelstv.online:8080/A939376788322/A092927667330/99786
-#EXTINF:-1,Bu- Nova TV
-http://channelstv.online:8080/A939376788322/A092927667330/99787
-#EXTINF:-1,"Bug- Nova TV HD
-http://channelstv.online:8080/A939376788322/A092927667330/99788
-#EXTINF:-1,BG : Nova TV
-http://channelstv.online:8080/A939376788322/A092927667330/99789
-#EXTINF:-1,"Bug- KinoNova
-http://channelstv.online:8080/A939376788322/A092927667330/99790
-#EXTINF:-1,"Bug- Nova Sport FHD
-http://channelstv.online:8080/A939376788322/A092927667330/99791
-#EXTINF:-1,"Bug- Kino Nova HD
-http://channelstv.online:8080/A939376788322/A092927667330/99792
-#EXTINF:-1,"Bug- Nova Sport HD
-http://channelstv.online:8080/A939376788322/A092927667330/99793
-#EXTINF:-1,"Bug- Nova HD
-http://channelstv.online:8080/A939376788322/A092927667330/99794
-#EXTINF:-1,Gr- OTE Cinema 2
-http://channelstv.online:8080/A939376788322/A092927667330/99796
-#EXTINF:-1,Gr- OTE Cinema 3
-http://channelstv.online:8080/A939376788322/A092927667330/99797
-#EXTINF:-1,GR: OTE Cinema 3 HD
-http://channelstv.online:8080/A939376788322/A092927667330/99798
-#EXTINF:-1,Gr- OTE Cinema 4
-http://channelstv.online:8080/A939376788322/A092927667330/99799
-#EXTINF:-1,Gr- OTE Sport 1
-http://channelstv.online:8080/A939376788322/A092927667330/99800
-#EXTINF:-1,Gr- Nova Sports 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/99801
-#EXTINF:-1,Gr- Nova Sports 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/99802
-#EXTINF:-1,Gr- EuroSport 2
-http://channelstv.online:8080/A939376788322/A092927667330/99803
-#EXTINF:-1,AR: KSA Sport 3
-http://channelstv.online:8080/A939376788322/A092927667330/101076
-#EXTINF:-1,AR: KSA Sport 4
-http://channelstv.online:8080/A939376788322/A092927667330/101077
 #EXTINF:-1,UK: Sky Cinema Action HD
 http://channelstv.online:8080/A939376788322/A092927667330/106463
 #EXTINF:-1,UK: Sky Cinema Comedy HD
@@ -543,48 +100,6 @@ http://channelstv.online:8080/A939376788322/A092927667330/106468
 http://channelstv.online:8080/A939376788322/A092927667330/106469
 #EXTINF:-1,UK: BT Sport 1 HD
 http://channelstv.online:8080/A939376788322/A092927667330/106470
-#EXTINF:-1,UK: E! HD
-http://channelstv.online:8080/A939376788322/A092927667330/106471
-#EXTINF:-1,UK: Premier Sports 2
-http://channelstv.online:8080/A939376788322/A092927667330/106472
-#EXTINF:-1,UK: Sky News HD
-http://channelstv.online:8080/A939376788322/A092927667330/106473
-#EXTINF:-1,UK: Sky Sports Action HD
-http://channelstv.online:8080/A939376788322/A092927667330/106474
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://channelstv.online:8080/A939376788322/A092927667330/106475
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://channelstv.online:8080/A939376788322/A092927667330/106476
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106477
-#EXTINF:-1,UK: Sky Sports Football HD
-http://channelstv.online:8080/A939376788322/A092927667330/106478
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://channelstv.online:8080/A939376788322/A092927667330/106479
-#EXTINF:-1,UK: Sky Sports News HD
-http://channelstv.online:8080/A939376788322/A092927667330/106480
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://channelstv.online:8080/A939376788322/A092927667330/106481
-#EXTINF:-1,VIP SPORT: SKY SPORT NEWS (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106482
-#EXTINF:-1,VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106483
-#EXTINF:-1,VIP SPORT: SKYS PORTS FOOTBALL (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106484
-#EXTINF:-1,VIP SPORT: SKY SPORT ACTION (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106485
-#EXTINF:-1,VIP SPORT: SKYS PORTS ARENA (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106486
-#EXTINF:-1,VIP SPORT: SKY SPORT MIX (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106487
-#EXTINF:-1,VIP SPORT: SKYS PORTS MAIN EVENT (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106488
-#EXTINF:-1,VIP SPORT: SKY SPORTS F1 (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106489
-#EXTINF:-1,VIP SPORT: SKY SPORT GOLF (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106490
-#EXTINF:-1,VIP SPORT: SKY SPORT CRICKET (UK)
-http://channelstv.online:8080/A939376788322/A092927667330/106491
 #EXTINF:-1,IT: Sky Arte
 http://channelstv.online:8080/A939376788322/A092927667330/106492
 #EXTINF:-1,IT: Sky Atlantic
@@ -613,142 +128,12 @@ http://channelstv.online:8080/A939376788322/A092927667330/106503
 http://channelstv.online:8080/A939376788322/A092927667330/106504
 #EXTINF:-1,IT: Sky Cinema Romance
 http://channelstv.online:8080/A939376788322/A092927667330/106505
-#EXTINF:-1,DE: Sky Bundesliga 1 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106506
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106507
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://channelstv.online:8080/A939376788322/A092927667330/106508
-#EXTINF:-1,DE: BL - Freitag & Montag Spiele
-http://channelstv.online:8080/A939376788322/A092927667330/106509
-#EXTINF:-1,DE: Sky Bundesliga 2 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106510
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106511
-#EXTINF:-1,DE: Sky Bundesliga 3 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106512
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106513
-#EXTINF:-1,DE: Sky Bundesliga 3
-http://channelstv.online:8080/A939376788322/A092927667330/106514
-#EXTINF:-1,DE: Sky Bundesliga 4 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106515
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106516
-#EXTINF:-1,DE: Sky Bundesliga 4
-http://channelstv.online:8080/A939376788322/A092927667330/106517
-#EXTINF:-1,DE: Sky Bundesliga 5 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106518
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106519
-#EXTINF:-1,DE: Sky Bundesliga 5
-http://channelstv.online:8080/A939376788322/A092927667330/106520
-#EXTINF:-1,DE: Sky Bundesliga HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106521
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106522
-#EXTINF:-1,DE: Sky Bundesliga 6
-http://channelstv.online:8080/A939376788322/A092927667330/106523
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106524
-#EXTINF:-1,DE: Sky Bundesliga 7 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106525
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106526
-#EXTINF:-1,DE: Sky Bundesliga 8 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106527
-#EXTINF:-1,DE: Sky Bundesliga 9 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106528
-#EXTINF:-1,DE: Sky Bundesliga 9 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106529
-#EXTINF:-1,DE: Sky Bundesliga 10 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106530
-#EXTINF:-1,DE: Sky Bundesliga 10 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106531
-#EXTINF:-1,DE: Sky Sport 1 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106532
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106533
-#EXTINF:-1,DE: Sky Sport 2 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106534
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106535
-#EXTINF:-1,DE: Sky Sport 3 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106536
-#EXTINF:-1,DE: Sky Sport 3 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106537
-#EXTINF:-1,DE: Sky Sport 4 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106538
-#EXTINF:-1,DE: Sky Sport 4 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106539
-#EXTINF:-1,DE: Sky Sport 4
-http://channelstv.online:8080/A939376788322/A092927667330/106540
-#EXTINF:-1,DE: Sky Sport 5 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106541
-#EXTINF:-1,DE: Sky Sport 5 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106542
-#EXTINF:-1,DE: Sky Sport 5
-http://channelstv.online:8080/A939376788322/A092927667330/106543
-#EXTINF:-1,DE: Sky Sport 6 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106544
-#EXTINF:-1,DE: Sky Sport 6 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106545
-#EXTINF:-1,DE: Sky Sport 7 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106546
-#EXTINF:-1,DE: Sky Sport 7 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106547
-#EXTINF:-1,DE: Sky Sport Austria 1 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106548
-#EXTINF:-1,DE: Sky Sport Austria 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106549
-#EXTINF:-1,DE: Sky Sport Austria 1
-http://channelstv.online:8080/A939376788322/A092927667330/106550
-#EXTINF:-1,DE: Sky Sport Austria 2 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106551
-#EXTINF:-1,DE: Sky Sport Austria 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106552
-#EXTINF:-1,DE: Sky Sport Austria 3 HD+
-http://channelstv.online:8080/A939376788322/A092927667330/106553
-#EXTINF:-1,DE: Sky Sport Austria 3 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106554
 #EXTINF:-1,IT: Sky Cinema Suspense
 http://channelstv.online:8080/A939376788322/A092927667330/106555
 #EXTINF:-1,IT: Sky Cinema Uno
 http://channelstv.online:8080/A939376788322/A092927667330/106556
 #EXTINF:-1,IT: Sky Cinema Uno +24
 http://channelstv.online:8080/A939376788322/A092927667330/106557
-#EXTINF:-1,IT: Sky History
-http://channelstv.online:8080/A939376788322/A092927667330/106558
-#EXTINF:-1,IT: SKY Primafila 1 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106559
-#EXTINF:-1,IT: SKY PrimaFila 2 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106560
-#EXTINF:-1,IT: SKY Primafila 4 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106561
-#EXTINF:-1,IT: SKY Primafila 5 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106562
-#EXTINF:-1,IT: SKY Primafila 6 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106563
-#EXTINF:-1,IT: SKY Primafila 7 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106564
-#EXTINF:-1,IT: SKY Primafila 8 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106565
-#EXTINF:-1,IT: SKY Primafila 9 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106566
-#EXTINF:-1,IT: SKY Primafila 10 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106567
-#EXTINF:-1,IT: SKY Primafila 11 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106568
-#EXTINF:-1,IT: SKY Primafila 12 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106569
-#EXTINF:-1,IT: SKY Primafila 13 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106570
-#EXTINF:-1,IT: SKY Primafila 14 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106571
-#EXTINF:-1,IT: SKY Primafila 15 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106572
-#EXTINF:-1,IT: SKY Primafila 16 HD
-http://channelstv.online:8080/A939376788322/A092927667330/106573
 #EXTINF:-1,IT: SKY Primafila Multivision 2 4K
 http://channelstv.online:8080/A939376788322/A092927667330/106574
 #EXTINF:-1,IT: Sky Sport 24
@@ -789,22 +174,6 @@ http://channelstv.online:8080/A939376788322/A092927667330/106591
 http://channelstv.online:8080/A939376788322/A092927667330/106592
 #EXTINF:-1,UK: Sky Cinema Thriller HD vip
 http://channelstv.online:8080/A939376788322/A092927667330/106593
-#EXTINF:-1,UK: Box Nation HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106594
-#EXTINF:-1,UK: BT Sport 2 HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106595
-#EXTINF:-1,UK: BT Sport 3 HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106596
-#EXTINF:-1,UK: BT Sport ESPN HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106597
-#EXTINF:-1,UK: Eir Sport 2 HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106598
-#EXTINF:-1,UK: Eurosport 1 HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106599
-#EXTINF:-1,UK: Eurosport 2 HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106600
-#EXTINF:-1,UK: Premier Sports HD vip
-http://channelstv.online:8080/A939376788322/A092927667330/106601
 #EXTINF:-1,IT: Sky Cinema Due +24 HD vip
 http://channelstv.online:8080/A939376788322/A092927667330/106602
 #EXTINF:-1,DE: Sky Bundesliga 2 HD vip
@@ -865,83 +234,24 @@ http://channelstv.online:8080/A939376788322/A092927667330/92501
 http://channelstv.online:8080/A939376788322/A092927667330/92502
 #EXTINF:-1,AR: BeiN DremWorks FHD
 http://channelstv.online:8080/A939376788322/A092927667330/92503
-#EXTINF:-1,BEIN SPORT  NBA HD 
-http://channelstv.online:8080/A939376788322/A092927667330/92550
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",OLYMPIC CHANNEL  HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Showtime West (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/63653?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC HD(M)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1600?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Undefined",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9b0cc12d-a2e0-4a7b-bec4-31c00a4c499f-small3x1_STIRR_Logo_0520_Cinehouse_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Undefined",Cinehouse
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="Undefined",Classic Movies Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/48iMZ7c.png" group-title="Undefined",Filmon 360,The 360 Channel
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Undefined",Filmrise Classic TV
-https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="Undefined",Filmrise Crime,US | Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Undefined",Filmrise Movies,US | Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO COMEDY HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/1559?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35801?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Investigation Discovery ID
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9391?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CARTOONITO
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9353?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY SHED
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9399?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC WILD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9351?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Drama and Romance
-http://worldteam.io:8080/DuHNpHQARI/7LXS81PSo0/21501?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Undefined",Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",NATGEO KIDS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UFC USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sport",Action Sports 4U
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports USA (tr)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/59980?checkedby:hlscat.com
 #EXTINF:-1,BEIN STAR MOVIES HD
@@ -1304,6 +614,502 @@ http://channelstv.online:8080/A939376788322/A092927667330/85930
 http://channelstv.online:8080/A939376788322/A092927667330/85931
 #EXTINF:-1,OSN_VH1
 http://channelstv.online:8080/A939376788322/A092927667330/85933
+#EXTINF:-1,UK: Box Nation HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106594
+#EXTINF:-1,UK: BT Sport 2 HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106595
+#EXTINF:-1,UK: BT Sport 3 HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106596
+#EXTINF:-1,UK: BT Sport ESPN HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106597
+#EXTINF:-1,UK: Eir Sport 2 HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106598
+#EXTINF:-1,UK: Eurosport 1 HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106599
+#EXTINF:-1,UK: Eurosport 2 HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106600
+#EXTINF:-1,UK: Premier Sports HD vip
+http://channelstv.online:8080/A939376788322/A092927667330/106601
+#EXTINF:-1,UNION BEIN-1 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85701
+#EXTINF:-1,UNION BEIN-2 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85702
+#EXTINF:-1,UNION BEIN-3 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85703
+#EXTINF:-1,UNION BEIN-4 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85704
+#EXTINF:-1,UNION BEIN-5 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85705
+#EXTINF:-1,UNION BEIN-6 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85706
+#EXTINF:-1,UNION BEIN-7 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85707
+#EXTINF:-1,UNION BEIN-8 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85708
+#EXTINF:-1,UNION BEIN-9 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85709
+#EXTINF:-1,UNION BEIN-10 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85710
+#EXTINF:-1,UNION BEIN-11 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85711
+#EXTINF:-1,UNION BEIN-12 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85712
+#EXTINF:-1,BeoutQ 1 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81010
+#EXTINF:-1,BeoutQ 2 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81011
+#EXTINF:-1,BeoutQ 3 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81012
+#EXTINF:-1,BeoutQ 4 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81013
+#EXTINF:-1,BeoutQ 5 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81014
+#EXTINF:-1,BeoutQ 6 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81015
+#EXTINF:-1,BeoutQ 7 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81016
+#EXTINF:-1,BeoutQ 8 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81017
+#EXTINF:-1,BeoutQ 9 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81018
+#EXTINF:-1,BeoutQ 10 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81019
+#EXTINF:-1,Bein 1 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57941
+#EXTINF:-1,Bein 2 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57942
+#EXTINF:-1,Bein 3 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57943
+#EXTINF:-1,Bein 4 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57944
+#EXTINF:-1,Bein 5 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57945
+#EXTINF:-1,Bein 6 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57946
+#EXTINF:-1,Bein 7 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57947
+#EXTINF:-1,Bein 8 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57948
+#EXTINF:-1,Bein 9 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57949
+#EXTINF:-1,Bein 10 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57950
+#EXTINF:-1,Bein 11 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57951
+#EXTINF:-1,Bein 12 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57952
+#EXTINF:-1,Bein 1 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81074
+#EXTINF:-1,Bein 2 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81075
+#EXTINF:-1,Bein 3 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81076
+#EXTINF:-1,Bein 4 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81077
+#EXTINF:-1,Bein 5 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81078
+#EXTINF:-1,Bein 6 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81079
+#EXTINF:-1,Bein 7 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81080
+#EXTINF:-1,Bein 8 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81081
+#EXTINF:-1,Bein 9 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81082
+#EXTINF:-1,Bein 10 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81083
+#EXTINF:-1,Bein 11 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81084
+#EXTINF:-1,Bein 12 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81085
+#EXTINF:-1,Bein 1 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57953
+#EXTINF:-1,Bein 2 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57954
+#EXTINF:-1,Bein 3 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57955
+#EXTINF:-1,Bein 4 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57956
+#EXTINF:-1,Bein 5 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57957
+#EXTINF:-1,Bein 6 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57958
+#EXTINF:-1,Bein 7 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57959
+#EXTINF:-1,Bein 8 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57960
+#EXTINF:-1,Bein 9 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57961
+#EXTINF:-1,Bein 10 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57962
+#EXTINF:-1,Bein 11 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57963
+#EXTINF:-1,Bein 12 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57964
+#EXTINF:-1,Bein 1_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81128
+#EXTINF:-1,Bein 2_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81129
+#EXTINF:-1,Bein 3_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81130
+#EXTINF:-1,Bein 4_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81131
+#EXTINF:-1,Bein 5_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81132
+#EXTINF:-1,Bein 6_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81133
+#EXTINF:-1,Bein 7_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81134
+#EXTINF:-1,Bein 8_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81135
+#EXTINF:-1,Bein 9_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81136
+#EXTINF:-1,Bein 10_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81137
+#EXTINF:-1,Bein 11_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81138
+#EXTINF:-1,Bein 12_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81139
+#EXTINF:-1,Bein 4K_LOCAL
+http://channelstv.online:8080/A939376788322/A092927667330/81152
+#EXTINF:-1,beIN Sports 1 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81153
+#EXTINF:-1,beIN Sports 2 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81154
+#EXTINF:-1,beIN Sports 3 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81155
+#EXTINF:-1,beIN Sports 4 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81156
+#EXTINF:-1,beIN Sports 5 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81157
+#EXTINF:-1,beIN Sports 6 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81158
+#EXTINF:-1,beIN Sports 7 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81159
+#EXTINF:-1,beIN Sports 8 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81160
+#EXTINF:-1,beIN Sports 9 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81161
+#EXTINF:-1,beIN Sports 10 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81162
+#EXTINF:-1,Bein 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81163
+#EXTINF:-1,beIN Sports 1 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81164
+#EXTINF:-1,beIN Sports 2 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81165
+#EXTINF:-1,beIN Sports 3 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81166
+#EXTINF:-1,beIN Sports 4 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81167
+#EXTINF:-1,beIN Sports 5 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81168
+#EXTINF:-1,beIN Sports 6 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81169
+#EXTINF:-1,beIN Sports 7 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81170
+#EXTINF:-1,beIN Sports 8 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81171
+#EXTINF:-1,beIN Sports 9 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81172
+#EXTINF:-1,beIN Sports 10 4K PURE
+http://channelstv.online:8080/A939376788322/A092927667330/81173
+#EXTINF:-1,FR_BeIN_SPORTS_1_HD
+http://channelstv.online:8080/A939376788322/A092927667330/73937
+#EXTINF:-1,FR_BeIN_SPORTS_2_HD
+http://channelstv.online:8080/A939376788322/A092927667330/73938
+#EXTINF:-1,FR_BeIN_SPORTS_3_FullHD
+http://channelstv.online:8080/A939376788322/A092927667330/73939
+#EXTINF:-1,FR_BEIN_SPORT_MAX_04
+http://channelstv.online:8080/A939376788322/A092927667330/73940
+#EXTINF:-1,FR_BEIN_SPORT_MAX_05
+http://channelstv.online:8080/A939376788322/A092927667330/73941
+#EXTINF:-1,FR_BEIN_SPORT_MAX_06
+http://channelstv.online:8080/A939376788322/A092927667330/73942
+#EXTINF:-1,FR_BEIN_SPORT_MAX_07
+http://channelstv.online:8080/A939376788322/A092927667330/73943
+#EXTINF:-1,FR_BEIN_SPORT_MAX_08
+http://channelstv.online:8080/A939376788322/A092927667330/73944
+#EXTINF:-1,FR_BEIN_SPORT_MAX_09
+http://channelstv.online:8080/A939376788322/A092927667330/73945
+#EXTINF:-1,FR_BEIN_SPORT_MAX_10
+#EXTINF:-1,AL: Super Sport 1
+http://channelstv.online:8080/A939376788322/A092927667330/58018
+#EXTINF:-1,AL: Super Sport 2
+http://channelstv.online:8080/A939376788322/A092927667330/58019
+#EXTINF:-1,AL: Super Sport 3
+http://channelstv.online:8080/A939376788322/A092927667330/58020
+#EXTINF:-1,AL: Super Sport 4
+http://channelstv.online:8080/A939376788322/A092927667330/58021
+#EXTINF:-1,AF: SuperSport Cricket HD
+http://channelstv.online:8080/A939376788322/A092927667330/58023
+#EXTINF:-1,AF: SuperSport Rugby HD
+http://channelstv.online:8080/A939376788322/A092927667330/58025
+#EXTINF:-1,AF: SuperSport La Liga HD
+http://channelstv.online:8080/A939376788322/A092927667330/58026
+#EXTINF:-1,AF: SuperSport Motorsport HD
+http://channelstv.online:8080/A939376788322/A092927667330/58027
+#EXTINF:-1,AF: SuperSport Tennis HD
+http://channelstv.online:8080/A939376788322/A092927667330/58028
+#EXTINF:-1,AF: SuperSport Premier League HD
+http://channelstv.online:8080/A939376788322/A092927667330/58029
+#EXTINF:-1,AF: SuperSport Blitz HD
+http://channelstv.online:8080/A939376788322/A092927667330/58030
+#EXTINF:-1,AF: SuperSport MáXimo 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/58031
+#EXTINF:-1,AF: SuperSport Play HD
+http://channelstv.online:8080/A939376788322/A092927667330/58032
+#EXTINF:-1,AF: SuperSport Variety 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/58033
+#EXTINF:-1,AF: SuperSport Variety 4 HD
+http://channelstv.online:8080/A939376788322/A092927667330/58035
+#EXTINF:-1,ON Time Sport SD
+http://channelstv.online:8080/A939376788322/A092927667330/85699
+#EXTINF:-1,ON Time Sport H265
+http://channelstv.online:8080/A939376788322/A092927667330/48045
+#EXTINF:-1,ON Time Sport 2 H265
+http://channelstv.online:8080/A939376788322/A092927667330/39013
+#EXTINF:-1,AR: DMC.SPORT
+http://channelstv.online:8080/A939376788322/A092927667330/23664
+#EXTINF:-1,AR: Al Ahly TV
+http://channelstv.online:8080/A939376788322/A092927667330/23666
+#EXTINF:-1,AR: Zamalek Sports
+http://channelstv.online:8080/A939376788322/A092927667330/23668
+#EXTINF:-1,Dubai Sports1
+http://channelstv.online:8080/A939376788322/A092927667330/35144
+#EXTINF:-1,Dubai Sports2
+http://channelstv.online:8080/A939376788322/A092927667330/35145
+#EXTINF:-1,Dubai Sports3
+http://channelstv.online:8080/A939376788322/A092927667330/35146
+#EXTINF:-1,Dubai Racing
+http://channelstv.online:8080/A939376788322/A092927667330/35953
+#EXTINF:-1,Dubai Racing 2
+http://channelstv.online:8080/A939376788322/A092927667330/35954
+#EXTINF:-1,Dubai Racing 3
+http://channelstv.online:8080/A939376788322/A092927667330/35955
+#EXTINF:-1,Al kass 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/48046
+#EXTINF:-1,Al kass 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/48047
+#EXTINF:-1,Al kass 4 HD
+http://channelstv.online:8080/A939376788322/A092927667330/48049
+#EXTINF:-1,Al kass 5 HD
+http://channelstv.online:8080/A939376788322/A092927667330/48050
+#EXTINF:-1,KTV Sports
+http://channelstv.online:8080/A939376788322/A092927667330/35147
+#EXTINF:-1,Time.Sport hevc
+http://channelstv.online:8080/A939376788322/A092927667330/23665
+#EXTINF:-1,AR: YAS.Sport
+http://channelstv.online:8080/A939376788322/A092927667330/23675
+#EXTINF:-1,SP-AR | Arryadia
+http://channelstv.online:8080/A939376788322/A092927667330/38995
+#EXTINF:-1,SP-AR | Bahrain Sports 1
+http://channelstv.online:8080/A939376788322/A092927667330/38996
+#EXTINF:-1,SP-AR | Bahrain Sports 2
+http://channelstv.online:8080/A939376788322/A092927667330/38997
+#EXTINF:-1,SP-AR | Iraqiya Sport
+http://channelstv.online:8080/A939376788322/A092927667330/39003
+#EXTINF:-1,SP-AR | Jordan Sport ⁴ᵏ
+http://channelstv.online:8080/A939376788322/A092927667330/39004
+#EXTINF:-1,SP-AR | Kuwait Sport + ⁴ᵏ
+http://channelstv.online:8080/A939376788322/A092927667330/39009
+#EXTINF:-1,SP-AR | Kuwait Tv Sport ⁴ᵏ
+http://channelstv.online:8080/A939376788322/A092927667330/39010
+#EXTINF:-1,SP-AR | Nile Sport
+http://channelstv.online:8080/A939376788322/A092927667330/39011
+#EXTINF:-1,SP-AR | Oman Sport ⁴ᵏ
+http://channelstv.online:8080/A939376788322/A092927667330/39012
+#EXTINF:-1,SP-AR | Saudi Sport 24
+http://channelstv.online:8080/A939376788322/A092927667330/39014
+#EXTINF:-1,SP-AR | Sharjah Sport ⁴ᵏ
+http://channelstv.online:8080/A939376788322/A092927667330/39015
+#EXTINF:-1,SP-AR | YAS Sports ⁴ᵏ
+http://channelstv.online:8080/A939376788322/A092927667330/39016
+#EXTINF:-1,ON Time Sport 
+http://channelstv.online:8080/A939376788322/A092927667330/92108
+#EXTINF:-1,DAZN 1
+http://channelstv.online:8080/A939376788322/A092927667330/80942
+#EXTINF:-1,DAZN 2
+http://channelstv.online:8080/A939376788322/A092927667330/80943
+#EXTINF:-1,BR: DAZN 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80958
+#EXTINF:-1,DE: DAZN Bar 1
+http://channelstv.online:8080/A939376788322/A092927667330/80962
+#EXTINF:-1,PT: Eleven Sport 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80978
+#EXTINF:-1,PT: Eleven Sport 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80979
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80980
+#EXTINF:-1,PT: Eleven Sport 4 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80981
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80982
+#EXTINF:-1,PT: Eleven Sport 6 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80983
+#EXTINF:-1,BE: ELEVEN SPORTS 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80984
+#EXTINF:-1,BE: ELEVEN SPORTS 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/80985
+#EXTINF:-1,PL: ELEVEN SPORT 1 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/80987
+#EXTINF:-1,PL: ELEVEN SPORT 2 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/80988
+#EXTINF:-1,PL: ELEVEN SPORT 3 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/80989
+#EXTINF:-1,PL: ELEVEN SPORT 4 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/80990
+#EXTINF:-1,IT: SKY Primafila 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106559
+#EXTINF:-1,IT: SKY PrimaFila 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106560
+#EXTINF:-1,IT: SKY Primafila 4 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106561
+#EXTINF:-1,IT: SKY Primafila 5 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106562
+#EXTINF:-1,IT: SKY Primafila 6 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106563
+#EXTINF:-1,IT: SKY Primafila 7 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106564
+#EXTINF:-1,IT: SKY Primafila 8 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106565
+#EXTINF:-1,IT: SKY Primafila 9 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106566
+#EXTINF:-1,IT: SKY Primafila 10 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106567
+#EXTINF:-1,IT: SKY Primafila 11 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106568
+#EXTINF:-1,IT: SKY Primafila 12 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106569
+#EXTINF:-1,IT: SKY Primafila 13 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106570
+#EXTINF:-1,IT: SKY Primafila 14 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106571
+#EXTINF:-1,IT: SKY Primafila 15 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106572
+#EXTINF:-1,IT: SKY Primafila 16 HD
+http://channelstv.online:8080/A939376788322/A092927667330/106573
+#EXTINF:-1,Nova Throne Season 8 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92662
+#EXTINF:-1,ERT 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92664
+#EXTINF:-1,ERT  2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92665
+#EXTINF:-1,euro sport 1
+http://channelstv.online:8080/A939376788322/A092927667330/92666
+#EXTINF:-1,KPHTI TV
+http://channelstv.online:8080/A939376788322/A092927667330/92672
+#EXTINF:-1,4E
+http://channelstv.online:8080/A939376788322/A092927667330/92674
+#EXTINF:-1,ANT1
+http://channelstv.online:8080/A939376788322/A092927667330/92676
+#EXTINF:-1,ANT1 CYPRUS
+http://channelstv.online:8080/A939376788322/A092927667330/92677
+#EXTINF:-1,AXELOOS TV
+http://channelstv.online:8080/A939376788322/A092927667330/92679
+#EXTINF:-1,CAPITAL CYPRUS
+http://channelstv.online:8080/A939376788322/A092927667330/92680
+#EXTINF:-1,EXTRA CYPRUS
+http://channelstv.online:8080/A939376788322/A092927667330/92682
+#EXTINF:-1,IONIAN CHANNEL
+http://channelstv.online:8080/A939376788322/A092927667330/92683
+#EXTINF:-1,KANALI 9
+http://channelstv.online:8080/A939376788322/A092927667330/92684
+#EXTINF:-1,MONTREAL TV
+http://channelstv.online:8080/A939376788322/A092927667330/92686
+#EXTINF:-1,NEA TV XANIA
+http://channelstv.online:8080/A939376788322/A092927667330/92687
+#EXTINF:-1,NET TV TORONTO
+http://channelstv.online:8080/A939376788322/A092927667330/92688
+#EXTINF:-1,PLUS CYPRUS
+http://channelstv.online:8080/A939376788322/A092927667330/92689
+#EXTINF:-1,RIK 1
+http://channelstv.online:8080/A939376788322/A092927667330/92692
+#EXTINF:-1,RIK 2
+http://channelstv.online:8080/A939376788322/A092927667330/92693
+#EXTINF:-1,RIK SAT
+http://channelstv.online:8080/A939376788322/A092927667330/92694
+#EXTINF:-1,STAR KENTRIKIS ELLADAS
+http://channelstv.online:8080/A939376788322/A092927667330/92695
+#EXTINF:-1,SiGMA CYPRUS
+http://channelstv.online:8080/A939376788322/A092927667330/92697
+#EXTINF:-1,TV FILLOPOLI
+http://channelstv.online:8080/A939376788322/A092927667330/92700
+#EXTINF:-1,VOULI
+http://channelstv.online:8080/A939376788322/A092927667330/92701
+#EXTINF:-1,MESSINIA TV
+http://channelstv.online:8080/A939376788322/A092927667330/92702
+#EXTINF:-1,OMEGA CYPRUS
+http://channelstv.online:8080/A939376788322/A092927667330/92703
+#EXTINF:-1,SPORTS TRING SPORT 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92751
+#EXTINF:-1, fox sport HD
+http://channelstv.online:8080/A939376788322/A092927667330/92752
+#EXTINF:-1,SPORTS : Sport 2
+http://channelstv.online:8080/A939376788322/A092927667330/92753
+#EXTINF:-1,Sport 1
+http://channelstv.online:8080/A939376788322/A092927667330/92754
+#EXTINF:-1,DIEMA SPORT 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92755
+#EXTINF:-1,Racing sport 
+http://channelstv.online:8080/A939376788322/A092927667330/92756
+#EXTINF:-1, Super Sport 5 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92757
+#EXTINF:-1,Super Sport News HD
+http://channelstv.online:8080/A939376788322/A092927667330/92758
+#EXTINF:-1,Super Sport 3 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92759
+#EXTINF:-1,TRING SPORT 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92761
+#EXTINF:-1,Sky Sport AUSRIA  FHD
+http://channelstv.online:8080/A939376788322/A092927667330/92762
+#EXTINF:-1,DIEMA SPORT 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/92764
+#EXTINF:-1,BU:KINO NOVA
+http://channelstv.online:8080/A939376788322/A092927667330/99783
+#EXTINF:-1,Bu- Kino Nova
+http://channelstv.online:8080/A939376788322/A092927667330/99785
+#EXTINF:-1,Bu- Nova Sport
+http://channelstv.online:8080/A939376788322/A092927667330/99786
+#EXTINF:-1,Bu- Nova TV
+http://channelstv.online:8080/A939376788322/A092927667330/99787
+#EXTINF:-1,"Bug- Nova TV HD
+http://channelstv.online:8080/A939376788322/A092927667330/99788
+#EXTINF:-1,BG : Nova TV
+http://channelstv.online:8080/A939376788322/A092927667330/99789
+#EXTINF:-1,"Bug- KinoNova
+http://channelstv.online:8080/A939376788322/A092927667330/99790
+#EXTINF:-1,"Bug- Nova Sport FHD
+http://channelstv.online:8080/A939376788322/A092927667330/99791
+#EXTINF:-1,"Bug- Kino Nova HD
+http://channelstv.online:8080/A939376788322/A092927667330/99792
+#EXTINF:-1,"Bug- Nova Sport HD
+http://channelstv.online:8080/A939376788322/A092927667330/99793
+#EXTINF:-1,"Bug- Nova HD
+http://channelstv.online:8080/A939376788322/A092927667330/99794
+#EXTINF:-1,Gr- OTE Cinema 2
+http://channelstv.online:8080/A939376788322/A092927667330/99796
+#EXTINF:-1,Gr- OTE Cinema 3
+http://channelstv.online:8080/A939376788322/A092927667330/99797
+#EXTINF:-1,GR: OTE Cinema 3 HD
+http://channelstv.online:8080/A939376788322/A092927667330/99798
+#EXTINF:-1,Gr- OTE Cinema 4
+http://channelstv.online:8080/A939376788322/A092927667330/99799
+#EXTINF:-1,Gr- OTE Sport 1
+http://channelstv.online:8080/A939376788322/A092927667330/99800
+#EXTINF:-1,Gr- Nova Sports 1 HD
+http://channelstv.online:8080/A939376788322/A092927667330/99801
+#EXTINF:-1,Gr- Nova Sports 2 HD
+http://channelstv.online:8080/A939376788322/A092927667330/99802
+#EXTINF:-1,Gr- EuroSport 2
+http://channelstv.online:8080/A939376788322/A092927667330/99803
+#EXTINF:-1,AR: KSA Sport 3
+http://channelstv.online:8080/A939376788322/A092927667330/101076
+#EXTINF:-1,AR: KSA Sport 4
+http://channelstv.online:8080/A939376788322/A092927667330/101077
+
+
+
 #EXTINF:-1,OSN_Living_HD
 http://channelstv.online:8080/A939376788322/A092927667330/85934
 #EXTINF:-1,OSN Festival
