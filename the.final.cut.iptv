@@ -38,33 +38,32 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?chec
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Investigation Discovery ID
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735?checkedby:hlscat.com
-#EXTINF:-1,History HD (ENG)
+#EXTINF:-1,History
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS HD (ENG)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773?checkedby:hlscat.com
-#EXTINF:-1,5USA HD
+#EXTINF:-1,5USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
-#EXTINF:-1,BBC AME HD (ENG)
+#EXTINF:-1,BBC AME
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
-#EXTINF:-1,E! Entertaiment USA
+#EXTINF:-1,E! Entertaiment
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
 #EXTINF:-1,SYFY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 #EXTINF:-1,OXYGEN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
-#EXTINF:-1,Comedy Central HD (ENG)
+#EXTINF:-1,Comedy Central
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
-#EXTINF:-1,CW HD (ENG)
+#EXTINF:-1,CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1,DISNEYXD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 #EXTINF:-1,DISNEY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTVLCOPT:http-user-agent=ahmedbasimalswaidi
+#EXTINF:-1,beIN Sports Usa
 http://195.154.165.98:25461/tacomect/fdfdhh/167
-#EXTINF:-1,NBA HD (ENG)
+#EXTINF:-1,NBA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 #EXTINF:-1,ESPN1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
