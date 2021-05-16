@@ -6,7 +6,7 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" tvg-country="MA" tvg-url="" group-title="",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:hlscat.com
@@ -14,7 +14,7 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:hlscat.com
@@ -22,7 +22,7 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Undefined",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8?checkedby:hlscat.com
@@ -34,22 +34,24 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?chec
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",NAT GEO Ar
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,NAT GEO Wild Ar
-http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/4234
 #EXTINF:-1,NAT GEO Wild Eng
 http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/38637
-#EXTINF:-1,Focus
-http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/18355
+#EXTINF:-1,BBC EARTH Ar
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/63903
+#EXTINF:-1,BBC 1 
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/38561
+#EXTINF:-1,BBC 2 
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/38562
+#EXTINF:-1,BBC ONE SCOTTLAND 
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/38565
+#EXTINF:-1,BBC ONE WALES 
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/38566
 #EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Privé
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-name="Voyager Documentaries" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ad8d1e9e738977e2c310925/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Voyager Documentaries
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-name="Voyager Documentaries" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ad8d1e9e738977e2c310925/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Voyager
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Science I
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d9492c77ea6f99188738ff1/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Science II
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PlutoTVNature.us" tvg-name="Pluto TV Nature" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5db050444f3c52000984c72a/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Nature eng
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PlutoTVNature.us" tvg-name="Pluto TV Nature" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Nature fr
