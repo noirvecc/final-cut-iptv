@@ -32,8 +32,14 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",NAT GEO Abu Dhabi
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",NAT GEO Ar
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,NAT GEO Wild Ar
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/4234
+#EXTINF:-1,NAT GEO Wild Eng
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/38637
+#EXTINF:-1,Focus
+http://xtra.xcs521.cz:8080/00:1A:79:16:F9:E8/ziajdjjfdifjd64646/18355
 #EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Privé
