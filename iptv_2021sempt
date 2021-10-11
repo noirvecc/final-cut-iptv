@@ -40,7 +40,21 @@ http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",DMAX
 http://iptv.tvmalaysia.cc:80/737373/737373/6778
-
-
-
-
+EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",Focus
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 5
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1,|CA| DOCUMENTARY CHANNEL | SD
+http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60171.m3u8
+#EXTINF:-1,|CA| HBO 1
+http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60181.m3u8
+#EXTINF:-1,|CA| HBO 2
+http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60182.m3u8
+#EXTINF:-1,|CA| HBO 2 HD
+http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60183.m3u8
+#EXTINF:-1,|CA| HBO HD
+http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60184.m3u8
