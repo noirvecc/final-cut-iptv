@@ -16,13 +16,15 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",Nat Geo Arabic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Inwild
 https://inwild-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Privé
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",HBO Hits
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",HBO Hitssssssssssssssssss
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",HBO Family
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",HBO Familyssssssssssssssss
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Undefined",Moviesphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
@@ -34,19 +36,9 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",BBC Cbeebies
-http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",Disney XD
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",Focus
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
-EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1,|CA| DOCUMENTARY CHANNEL | SD
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60171.m3u8
+
+
