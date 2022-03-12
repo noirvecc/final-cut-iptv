@@ -1,0 +1,32 @@
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?t=sWZwSQWUXJvyCtjY8ylrHw&e=1647095080
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Undefined",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Undefined",2M Monde
+http://164.68.96.34/438jf934ruf/playlist.m3u8?t=el5cf1nnryYgXtztkRE--A&e=1646856838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoulax2.png" tvg-country="MA" tvg-url="" group-title="",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?t=Jzecy4YXOdOMM2w6r1K4dA&e=1647095035
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",M24
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?t=CXIK3yl5vgb-np1qnUmixg&e=1647094763
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",Nat Geo Arabic
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",Nat Geo Wild
+http://56.banroudara.xyz.global.prod.fastly.net/live/046/index.m3u8?t=d95-lzyvAEtsHkiS-6mr7Q&e=1647095804
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Discovery Channel
+http://56.banroudara.xyz.global.prod.fastly.net/live/035/index.m3u8?t=ngd6p-6yPgZ-9K_dQ_djnQ&e=1647095750
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Arte
+http://56.banroudara.xyz.global.prod.fastly.net/live/102/index.m3u8?t=xGtZh0Apn99WlYsGptTJyA&e=1647095663
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",TF1
+http://56.banroudara.xyz.global.prod.fastly.net/live/00000/index.m3u8?t=cWkKXMvSuVax-_jNPNrPQg&e=1647095205
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",France 5
+http://56.banroudara.xyz.global.prod.fastly.net/live/146/index.m3u8?t=TIdtkYs4miPNMwSyeMvjFA&e=1647095291
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",13eme Rue
+http://56.banroudara.xyz.global.prod.fastly.net/live/100/index.m3u8?t=7Qef0jgqxeX9NKPuPHXwOg&e=1647095462
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Canal + Cinema
+http://56.banroudara.xyz.global.prod.fastly.net/live/107/index.m3u8?t=D9J4LqIblxWg2RLB4p6yHA&e=1647095520
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Canal + Family
+http://56.banroudara.xyz.global.prod.fastly.net/live/107/index.m3u8?t=D9J4LqIblxWg2RLB4p6yHA&e=1647095520
