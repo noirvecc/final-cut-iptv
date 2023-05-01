@@ -14,18 +14,18 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",Nat Geo Arabic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Nat Geo Eng
-http://iptv.tvmalaysia.cc:80/295390/295390/7075
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Animal Planet
-http://iptv.tvmalaysia.cc:80/295390/295390/7077
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Dmax
-http://iptv.tvmalaysia.cc:80/295390/295390/6778
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",HBO
-http://iptv.tvmalaysia.cc:80/295390/295390/7067
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",HBO Family
-http://iptv.tvmalaysia.cc:80/295390/295390/7070
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",HBO Hits
-http://iptv.tvmalaysia.cc:80/295390/295390/7068
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Abudhabi 1
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Al Jaseera News
+https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",CNN News
+https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",NJR film
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",Hits Movies
