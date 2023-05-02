@@ -32,3 +32,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4a
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 #EXTINF:0 tvg-country="AE" ,Rick and Morty 24h
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:0 tvg-country="AE" ,Bladerunner 2049
+http://tvla.xyz:80/movie/vrhqyawo/87e0n2pQcM/252166.mkv
+
