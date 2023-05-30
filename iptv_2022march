@@ -40,6 +40,8 @@ https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1ea05555db2541be6d9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:0 tvg-country="AE" ,Rick and Morty 24h
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:0 tvg-country="AE" ,The Venture Bros 24h
+https://www.adultswim.com/streams/the-venture-bros
 #EXTINF:0 tvg-country="AE" ,Bladerunner 2049
 http://tvla.xyz:80/movie/vrhqyawo/87e0n2pQcM/252166.mkv
 #EXTINF:0 tvg-country="AE" ,1917
