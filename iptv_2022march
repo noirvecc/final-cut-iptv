@@ -30,16 +30,10 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" ,Canal+
 https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/dash-fhd-clair/canalplusclair-hd.mpd
-#EXTINF:0 tvg-country="AE" ,TF1
-https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_107_0.m3u8
-
-
 #EXTINF:0 tvg-country="AE" ,M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-country="AE" ,NJR film
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
-#EXTINF:0 tvg-country="AE" ,Al Jaseera News
-https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 #EXTINF:0 tvg-country="AE" ,Canal+ News
 https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/dash-fhddvr-clair/cnews-clair-hd.mpd
 #EXTINF:0 tvg-country="AE" ,CNN News
@@ -48,4 +42,9 @@ https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1ea05555db2541be6d9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:0 tvg-country="AE" ,Rick and Morty 24h
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
+#EXTINF:0 tvg-country="AE" ,The Batman
+http://obsfullhd.tv:25461/movie/nunostiles/pppDrF4Ysr/77832.mkv
+#EXTINF:0 tvg-country="AE" ,Batman Killing The Joke
+http://obsfullhd.tv:25461/movie/nunostiles/pppDrF4Ysr/80239.mkv
+#EXTINF:0 tvg-country="AE" ,Batman The Dome That Came To Gothamn
+http://obsfullhd.tv:25461/movie/nunostiles/pppDrF4Ysr/83997.mkv
