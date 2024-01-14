@@ -10,36 +10,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AE" ,Nat Geo Arabic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" ,Nat Geo 
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/5326
-#EXTINF:0 tvg-country="AE" ,Nat Geo Wild 
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/5327
-#EXTINF:0 tvg-country="AE" ,History
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/5323
-#EXTINF:0 tvg-country="AE" ,Discovery Channel
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/5320
-#EXTINF:0 tvg-country="AE" ,HBO 1
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/18167
-#EXTINF:0 tvg-country="AE" ,HBO 2
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/18168
-#EXTINF:0 tvg-country="AE" ,HBO 3
-http://tv.f1kcv11c.xyz:8080/alper1/alper1/18169
-#EXTINF:0 tvg-country="AE" ,MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:0 tvg-country="AE" ,Abudhabi 1
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AE" ,Canal+
-https://dsh-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/dash-fhd-clair/canalplusclair-hd.mpd
-#EXTINF:0 tvg-country="AE" ,M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:0 tvg-country="AE" ,NJR film
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
-#EXTINF:0 tvg-country="AE" ,Canal+ News
-https://dsh-m013-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/dash-fhddvr-clair/cnews-clair-hd.mpd
-#EXTINF:0 tvg-country="AE" ,Bloomberg+
-https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0&ads.consent={TC_STRING}
-#EXTINF:0 tvg-country="AE" ,PBS America 
-https://pbsaaaaaa-pbs-samsung-uk-vl4xp.amagi.tv/playlist/pbsAAAAAA-pbs-samsung-uk/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0
+
 
 
 #EXTINF:0 tvg-country="AE" ,CNN News
@@ -52,9 +23,4 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2ffr2bc4ktkbo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hglszeydqb62q-ssai-prd/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}
 #EXTINF:0 tvg-country="AE" ,Rick and Morty 24h
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:0 tvg-country="AE" ,The Batman
-http://obsfullhd.tv:25461/movie/nunostiles/pppDrF4Ysr/77832.mkv
-#EXTINF:0 tvg-country="AE" ,Batman Killing The Joke
-http://obsfullhd.tv:25461/movie/nunostiles/pppDrF4Ysr/80239.mkv
-#EXTINF:0 tvg-country="AE" ,Batman The Dome That Came To Gothamn
-http://obsfullhd.tv:25461/movie/nunostiles/pppDrF4Ysr/83997.mkv
+
